@@ -1,9 +1,9 @@
 # Organizacao-de-estudos
 Repositório para salvar e organizar os estudos adiante
 
-HTML,CSS e JAVASCRIPT
-PHP 7
-PHP 8
-MYSQL
-FIREBASE,JQUERY,BOOTSTRAP
-NODE,MONGO
+HTML,CSS e JAVASCRIPT <br/>
+PHP 7<br/>
+PHP 8<br/>
+MYSQL<br/>
+FIREBASE,JQUERY,BOOTSTRAP<br/>
+NODE,MONGO<br/>
